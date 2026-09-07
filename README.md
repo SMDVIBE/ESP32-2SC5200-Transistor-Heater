@@ -2,8 +2,6 @@
 
 > A DIY transistor heater controlled by an **ESP32-C3 Super Mini**, with real-time temperature measurement through the transistor's **base-emitter voltage (VBE)**, closed-loop current control, a **170×320 ST7789 color display**, and adjustable temperature control from **150 °C to 250 °C**.
 
-![Current project](Images/heater_display.jpg)
-
 ## 📸 The Finished Device
 
 ![2SC5200 Transistor Heater](Images/device_overview.jpg)
